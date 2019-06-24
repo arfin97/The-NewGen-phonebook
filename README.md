@@ -10,19 +10,19 @@ option which makes it easier to call any particular contact with a single key.
 # Features
 <img src="https://i.ibb.co/0nVYJ9w/0.png" width="100%">
 ## Main Menue
-<img src="https://i.ibb.co/FxKVPjv/1.png" width="100%"></img> 
+<img src="https://i.ibb.co/FxKVPjv/1.png" width="100%">
 ## Add Contact
-<img src="https://i.ibb.co/vsnQ42D/2-Add.png" width="100%"></img> 
+<img src="https://i.ibb.co/vsnQ42D/2-Add.png" width="100%">
 ## Call Contact
-<img src="https://i.ibb.co/xHgBvJP/3-Call.png" width="100%"></img> 
+<img src="https://i.ibb.co/xHgBvJP/3-Call.png" width="100%">
 ## See Call Log
-<img src="https://i.ibb.co/L5FHjbY/4-Log.png" width="100%"></img> 
+<img src="https://i.ibb.co/L5FHjbY/4-Log.png" width="100%">
 ## Speed Dial
-<img src="https://i.ibb.co/4KMT1ND/6-Speed-Dial.png" width="100%"></img> 
+<img src="https://i.ibb.co/4KMT1ND/6-Speed-Dial.png" width="100%">
 ## Edit Contact
-<img src="https://i.ibb.co/5GqYWG0/7-Edit.png" width="100%"></img> 
+<img src="https://i.ibb.co/5GqYWG0/7-Edit.png" width="100%">
 ## Delete Contact
-<img src="https://i.ibb.co/kgNqhFw/8-Delete.png" width="100%"></img> 
+<img src="https://i.ibb.co/kgNqhFw/8-Delete.png" width="100%">
 
 
 
