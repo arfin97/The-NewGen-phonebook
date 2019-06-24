@@ -8,10 +8,10 @@ add, delete, and update contacts easily. You can all call and there is a call lo
 option which makes it easier to call any particular contact with a single key.
 
 # Header Files:
-#include <stdio.h> - for standard input/output.
-#include <string.h> - for string operations.
-#include <stdlib.h> - for memory allocation functions.
-#include <windows.h> - for manipulation the window.
+#include <stdio.h> - for standard input/output. <br>
+#include <string.h> - for string operations. <br>
+#include <stdlib.h> - for memory allocation functions. <br>
+#include <windows.h> - for manipulation the window. <br>
 
 # Main variables:
 speedid of type int <br>
