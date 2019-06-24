@@ -14,28 +14,28 @@ option which makes it easier to call any particular contact with a single key.
 #include <windows.h> - for manipulation the window.
 
 # Main variables:
-speedid of type int
-choice of type int
-name of type string
-phone of type string
-email of type string
+speedid of type int <br>
+choice of type int <br>
+name of type string <br>
+phone of type string <br>
+email of type string <br>
 
 # Algorithm:
-Step 1: Start
-Step 2: Show the menu.
-Step 3:
-if 1: Show contacts list.
-if 2: Call.
-step 1: call by name.
-step 2: show list.
-if 3: Show call log.
-if 4: Speed dial.
-step 1: call from speed dial.
-step 2: add number to speed dial.
-if 5: Add a new contact
-if 6: Update contact.
-if 7: Delete contact.
-if 8: Exit.
+Step 1: Start <br>
+Step 2: Show the menu. <br>
+Step 3: <br>
+if 1: Show contacts list. <br>
+if 2: Call. <br>
+step 1: call by name. <br>
+step 2: show list. <br>
+if 3: Show call log. <br>
+if 4: Speed dial. <br>
+step 1: call from speed dial. <br>
+step 2: add number to speed dial. <br>
+if 5: Add a new contact <br>
+if 6: Update contact. <br>
+if 7: Delete contact. <br>
+if 8: Exit. <br>
 
 # Challenges faced:
 The main challenge if faced is to give specific index into linked list and find number through linked list.
