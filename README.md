@@ -8,7 +8,7 @@ add, delete, and update contacts easily. You can all call and there is a call lo
 option which makes it easier to call any particular contact with a single key.
 
 # Features
-<img src="https://i.ibb.co/0nVYJ9w/0.png" width="100%"></img> 
+<img src="https://i.ibb.co/0nVYJ9w/0.png" width="100%">
 ## Main Menue
 <img src="https://i.ibb.co/FxKVPjv/1.png" width="100%"></img> 
 ## Add Contact
