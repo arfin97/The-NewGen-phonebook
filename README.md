@@ -7,6 +7,25 @@ user’s favorite cell phone. It is similar to the contact manager in a cell pho
 add, delete, and update contacts easily. You can all call and there is a call log list. There is also speed dial
 option which makes it easier to call any particular contact with a single key.
 
+# Features
+<img src="https://i.ibb.co/0nVYJ9w/0.png" width="100%"></img> 
+## Main Menue
+<img src="https://i.ibb.co/FxKVPjv/1.png" width="100%"></img> 
+## Add Contact
+<img src="https://i.ibb.co/vsnQ42D/2-Add.png" width="100%"></img> 
+## Call Contact
+<img src="https://i.ibb.co/xHgBvJP/3-Call.png" width="100%"></img> 
+## See Call Log
+<img src="https://i.ibb.co/L5FHjbY/4-Log.png" width="100%"></img> 
+## Speed Dial
+<img src="https://i.ibb.co/4KMT1ND/6-Speed-Dial.png" width="100%"></img> 
+## Edit Contact
+<img src="https://i.ibb.co/5GqYWG0/7-Edit.png" width="100%"></img> 
+## Delete Contact
+<img src="https://i.ibb.co/kgNqhFw/8-Delete.png" width="100%"></img> 
+
+
+
 # Header Files:
 #include <stdio.h> - for standard input/output. <br>
 #include <string.h> - for string operations. <br>
